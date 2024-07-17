@@ -3,6 +3,7 @@ let employee = {
     name: "Denning",
     streetAddress: "Madaraka"
 };
+//create
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
     return {
